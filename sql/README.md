@@ -14,6 +14,7 @@
   - New Query (script import)
   - Backup restore
 
+
 # Day 4 – SQL Fundamentals Practice
 
 Today I practiced the essential SQL clauses:
@@ -34,5 +35,25 @@ Sorts the result set in ascending or descending order.
 - Practiced queries on multiple sample tables in SQL Server.
 - Becoming more comfortable navigating SSMS.
 - Reinforced understanding of basic syntax structure.
+
+- ### **Day 5 — SQL Practice Log**
+
+**Topics Practiced:**
+
+* `GROUP BY`
+* `HAVING`
+* `DISTINCT`
+* `TOP`
+* Writing multiple queries
+* Syntax highlighting understanding
+
+**Commands Covered:**
+
+* **DDL:** `CREATE`, `ALTER`, `DROP`
+* **DML:** `INSERT`, `UPDATE`, `DELETE`, `TRUNCATE`
+
+**Notes:**
+Focusing on writing clean queries and understanding when to use each command. Gaining confidence with data manipulation and structuring datasets for analysis.
+
 
 Progress is steady.
