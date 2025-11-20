@@ -54,6 +54,29 @@ Sorts the result set in ascending or descending order.
 
 **Notes:**
 Focusing on writing clean queries and understanding when to use each command. Gaining confidence with data manipulation and structuring datasets for analysis.
-
-
 Progress is steady.
+
+# Day 6 – SQL Practice
+
+### Covered Today:
+- **WHERE Operators**
+  - Comparison  
+  - Logical  
+  - Range  
+  - Membership  
+  - Search  
+
+- **JOIN Operators**
+  - INNER JOIN  
+  - LEFT JOIN  
+  - RIGHT JOIN  
+  - FULL JOIN  
+
+- **SET Operators**
+  - UNION  
+  - UNION ALL  
+  - EXCEPT  
+  - INTERSECT  
+
+### Notes:
+Practiced filtering data, combining tables, and working with different result sets. SQL logic is becoming more intuitive with hands-on exercises.
