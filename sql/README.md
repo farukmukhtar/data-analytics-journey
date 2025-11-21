@@ -80,3 +80,13 @@ Progress is steady.
 
 ### Notes:
 Practiced filtering data, combining tables, and working with different result sets. SQL logic is becoming more intuitive with hands-on exercises.
+
+## 📅 Day 7 — SQL Joins Practice
+
+Today I focused entirely on SQL JOINs since they are one of the core foundations of relational databases.
+
+### ✔️ What I Practiced:
+- INNER JOIN  
+- LEFT JOIN  
+- RIGHT JOIN  
+- FULL OUTER JOIN
