@@ -90,3 +90,24 @@ Today I focused entirely on SQL JOINs since they are one of the core foundations
 - LEFT JOIN  
 - RIGHT JOIN  
 - FULL OUTER JOIN
+
+## 📅 Day 8 — Advanced SQL Joins
+
+Today I deepened my understanding of **advanced SQL join operations**.  
+The focus was on mastering how tables relate to each other in more complex scenarios and how different join types affect query results.
+
+### 🔍 Topics Covered
+- Advanced INNER JOIN cases  
+- LEFT vs RIGHT JOIN behavior in multi-table relationships  
+- FULL OUTER JOIN with conditional filtering  
+- Combining join logic with WHERE operators  
+- Handling ambiguous column references with table aliases  
+- Understanding join performance considerations
+
+### 🎯 Key Takeaways
+- JOINs are the backbone of relational databases; mastering them increases speed and accuracy when querying large datasets.
+- Table aliases significantly improve readability in multi-table queries.
+- Choosing the **right join type** is essential for returning the expected results, especially when dealing with missing or unmatched data.
+
+### 🧠 Moving Forward
+Next step: **Set Functions** (SUM, AVG, MIN, MAX, COUNT) and using them with GROUP BY for analytical queries.
