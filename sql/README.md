@@ -111,3 +111,15 @@ The focus was on mastering how tables relate to each other in more complex scena
 
 ### 🧠 Moving Forward
 Next step: **Set Functions** (SUM, AVG, MIN, MAX, COUNT) and using them with GROUP BY for analytical queries.
+
+## 📅 Day 9 – SQL Practice
+
+Revisited core SQL concepts to reinforce understanding before moving deeper:
+
+- Logical operators (AND, OR, NOT)
+- Comparison operators
+- Range & membership filtering
+- JOIN operations (INNER, LEFT, RIGHT, FULL)
+
+Purpose: strengthen fundamentals before starting **SET operators**.
+
