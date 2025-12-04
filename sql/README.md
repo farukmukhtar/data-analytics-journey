@@ -123,3 +123,27 @@ Revisited core SQL concepts to reinforce understanding before moving deeper:
 
 Purpose: strengthen fundamentals before starting **SET operators**.
 
+## 📅 Day 10 – String Functions and Case Statement
+
+Today I focused on working with text and conditional logic in SQL.
+
+### ✅ Topics Covered
+
+* String Functions
+
+  * LENGTH
+  * LOCATE
+  * REPLACE
+  * CONCAT
+
+* CASE Statement
+
+  * Used for implementing conditional logic inside SQL queries
+
+### 📝 What I Learned
+
+String functions allow me to clean, combine, and analyze text-based data efficiently. The CASE statement helps introduce decision-making logic directly within queries, which is very useful for reporting and analysis.
+
+Progress is becoming more practical and exciting as I move deeper into SQL.
+
+
